@@ -7,6 +7,7 @@ public class Minecraft2Code {
         System.out.println("Adios mundo cruel");
         System.out.println("Mayonesa");
         System.out.println("Segundo dia");
+        System.out.println("Desde linux");
     }
     
 }
