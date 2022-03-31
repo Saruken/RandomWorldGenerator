@@ -1,0 +1,29 @@
+commit bb4c1cb8ab4e4c2fd63c2f89d394d0ef342f2f4f
+Author: Saruken <daniel.gomez.garcia3300@gmail.com>
+Date:   Mon Mar 28 13:34:29 2022 +0200
+
+    Desde linux
+
+commit 120d5dbe9b9b69b55b29f8ccb2f42ee96a520050
+Author: Saruken <daniel.gomez.garcia3300@gmail.com>
+Date:   Mon Mar 28 13:17:07 2022 +0200
+
+    Commit del segundo dia
+
+commit 0b1761f488e58b72f5f4afce7c4d0678e870e57b
+Author: Saruken <daniel.gomez.garcia3300@gmail.com>
+Date:   Thu Mar 24 13:58:24 2022 +0100
+
+    Mayonesa
+
+commit 7e5e716ba18dca067ee370d869da0a1705b29542
+Author: Saruken <daniel.gomez.garcia3300@gmail.com>
+Date:   Thu Mar 24 13:56:19 2022 +0100
+
+    Segundo commit
+
+commit 468bd848482600f98e68ec8a8e1e3869085c91d5
+Author: Saruken <daniel.gomez.garcia3300@gmail.com>
+Date:   Thu Mar 24 13:55:03 2022 +0100
+
+    Primer commit
